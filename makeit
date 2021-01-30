@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc -g -Wall -std=c99 -pedantic -o uebung5 uebung5.c
